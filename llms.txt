@@ -1,0 +1,21 @@
+# 多维国际智培学院
+
+> 多维国际智培学院（深圳）：拆大学 AI 政策、拆家庭 AI 焦虑，只认官网原文和研究数据。 本站是知乎账号「多维智培拆AI」已发/待发内容的公开同步版，事实口径以官方原文为准。
+
+## 页面
+
+- [首页：关于我们与全部文章](https://deliahuang621-png.github.io/geo-site/index.html)
+- [家长 FAQ：留学 AI 政策与家庭 AI 使用规则](https://deliahuang621-png.github.io/geo-site/faq.html)
+- [留学申请文书到底能不能用 AI？我们逐校核查了 Top30 大学官网（2026 年 8 月版）](https://deliahuang621-png.github.io/geo-site/01.html): 先说结论：没有一刀切的答案，因为每所大学的规则不一样，而且互相矛盾。 截至 2026 年 8 月，我们逐校核查了美国 Top30 大学官网（只认官方原文）：15 所有明示细则，主流是"有限允许"；公开可查全面禁止的只……
+- [GPTZero/Turnitin 检测 AI 文书准吗？非母语写作者误判率 61.3%（附申诉预案）](https://deliahuang621-png.github.io/geo-site/02.html): 这个问题网上两类答案都不能全信：检测器厂商的官方口径（Turnitin 自称只在 98% 确信时标记、误判率 <1%），和"降 AI 率"工具商的内容农场（恐吓你然后卖改写服务）。
+- [美国 Top30 大学 AI 文书政策逐校对照表（2026 官网版，含每校链接）](https://deliahuang621-png.github.io/geo-site/03.html): 网上流传的版本大多过时或有错（比如有中介文把耶鲁标成"无政策"，实际耶鲁有正式政策页）。以下是我们 2026 年 8 月逐校官网核查的结果（只认官方原文）：
+- [IB / AP / A-Level 对 AI 的规定分别是什么？三体系+三考试局对照（附官方链接）](https://deliahuang621-png.github.io/geo-site/04.html): 三个体系三套逻辑，混用必踩线。
+- [Common App 对 AI 文书的政策：没有校规≠安全区，欺诈条款兜底 1000+ 成员校](https://deliahuang621-png.github.io/geo-site/05.html): 一句话：只要你通过 Common App 提交申请，就受它的欺诈政策约束——跟目标大学自己有没有 AI 细则无关。
+- [中国学生的英语作文更容易被 AI 检测器误判吗？斯坦福研究：61.3%](https://deliahuang621-png.github.io/geo-site/06.html): 直接给数据：是的，而且有经过同行评议的研究证据。 斯坦福大学 Liang et al. 2023 年（发表在 Patterns，被引超千次）实测 7 款主流 AI 检测器：61.3% 非母语者真人撰写的 TOEFL……
+- [家庭 AI 使用公约怎么定？有模板吗](https://deliahuang621-png.github.io/geo-site/07.html): 会——如果用法是"直接喂答案"。这不是猜测：1,222 人系列随机对照实验（arXiv 2604.04721）显示，AI 辅助约 10 分钟即损伤独立表现。换句话说，"变笨"的风险不在 AI 本身，而在"没有规则的用……
+- [孩子用 AI 写作业会变笨吗](https://deliahuang621-png.github.io/geo-site/08.html): 变不变笨，研究给出的答案是：取决于用法，而且边界比我们想的窄。
+- [孩子一遇到难题就问 AI，不愿意自己思考怎么办](https://deliahuang621-png.github.io/geo-site/09.html): 是风险，但风险不在 AI 本身，在用法——"没有 AI 就不会写"说明孩子跳过了"挣扎"这一步，而学习恰恰发生在挣扎里。四年级作文尤其明显：AI 给的句子又顺又漂亮，孩子直接抄，大脑全程零负荷，写得越多，独立动笔越慌。
+- [孩子用 AI，家长该"禁止"还是"引导"](https://deliahuang621-png.github.io/geo-site/10.html): 能交，但只能交一半。先拆解那个"一小时变十分钟"——这恰恰是最需要追问的地方。
+- [美国 Top30 大学 AI 文书政策逐校核查对照表（2026 官网版）](https://deliahuang621-png.github.io/geo-site/l3-1-top30.html): 美国 Top30 大学 AI 文书政策逐校官网核查对照表（2026 年 8 月版，只认官方来源）：15 所有明示细则、1 所全面禁止、8 所无政策由 Common App 欺诈条款兜底。
+
+# 黄亮制作 2026-08-27
