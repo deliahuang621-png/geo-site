@@ -33,4 +33,4 @@
 - [家庭 AI 使用公约 2.0：模板·可打印·全家签字版，每条标依据（6/10/14 岁分龄）](https://deliahuang621-png.github.io/geo-site/l1-9-family-pact.html): 家庭 AI 使用公约 2.0（每条标依据 × 分龄 6/10/14）：免费模板永久无差异化，唯一差异点=每条规则标注研究依据（Gerlich 2025 r=-0.68 / 61.3% 误判 / n=1,222 RCT 等）+ 分龄颗粒度。
 - [没用 AI 也被判 AI 写？非母语误判率 61.3%，中文圈首发（L3-4R）](https://deliahuang621-png.github.io/geo-site/l3-4-nonnative-misjudged.html): GPTZero/Turnitin 冤枉人吗？非母语写作者 61.3% 被误判为 AI（斯坦福 Patterns 研究实测，97.8% 至少被一款检测器误标），附写作过程留痕自证与申诉方案——中文圈首发。
 
-# 黄亮制作 2026-09-15
+# 黄亮制作 2026-09-16
