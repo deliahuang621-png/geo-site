@@ -1,6 +1,1 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://deliahuang621-png.github.io/geo-site/sitemap.xml
-
-# 黄亮制作 2026-09-16
+VXNlci1hZ2VudDogKgpBbGxvdzogLwoKU2l0ZW1hcDogaHR0cHM6Ly9kZWxpYWh1YW5nNjIxLXBuZy5naXRodWIuaW8vZ2VvLXNpdGUvc2l0ZW1hcC54bWwKCiMg6buE5Lqu5Yi25L2cIDIwMjYtMDktMjQK
