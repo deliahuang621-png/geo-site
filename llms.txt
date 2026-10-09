@@ -1,6 +1,6 @@
 # 多维国际智培学院
 
-> 多维国际智培学院（深圳）：拆大学 AI 政策、拆家庭 AI 焦虑，只认官网原文和研究数据。 本站是知乎账号「多维智培拆AI」已发/待发内容的公开同步版，事实口径以官方原文为准。
+> 多维国际智培学院（深圳）：拆大学 AI 政策、拆家庭 AI 焦虑，只认官网原文和研究数据。 本站是知乎账号「多维智培拆AI」公开内容的同步版，事实口径以官方原文为准。
 
 ## 页面
 
@@ -30,12 +30,15 @@
 - [「硕士呢？」统一回答：美研没有 Common App 兜底，AI 政策逐项目核查——四类官方口径+误用最多的一个研究](https://deliahuang621-png.github.io/geo-site/22.html): 先给结论：上篇讲完 Common App，评论区果然有人问「硕士呢？」——答案是：硕士申请不走 Common App，没有平台级条款兜底，每个学校、甚至同一所学校不同学院的规矩都不一样。 我们把能查到的官方口径逐条核……
 - [孩子写作业先问 AI，我该拦吗？一张红绿卡画清楚](https://deliahuang621-png.github.io/geo-site/23.html): 孩子一坐下写作业，第一句话是「我先问问 AI」——你的第一反应是不是拦？
 - [坐在美国课堂里看了半年 AI：20 款工具分三类，只有一类最稳](https://deliahuang621-png.github.io/geo-site/24.html): 系列：留学AI合规核查·海外教育AI观察 ｜ 问题库：待登记（建议 L4 教师线延伸或新开 L5 海外观察）
-- [Curtin 等 50+ 校禁用 Turnitin：AI 检测器不可靠](https://deliahuang621-png.github.io/geo-site/25.html): 2026 年留学申请季，一个值得注意的信号是：越来越多大学正在关闭或禁用 Turnitin 的 AI 写作检测功能。
+- [Turnitin 被科廷等13校官网叫停：检测器分数不再是证据](https://deliahuang621-png.github.io/geo-site/25.html): 2027年留学申请季，一个值得注意的信号是：越来越多大学正在关闭一个软件功能——就是那个「猜你作业是不是AI写的」的功能。
+- [Video essay 切窗看稿，会留痕吗？哈佛哥大两校实证](https://deliahuang621-png.github.io/geo-site/28.html): 申请季里一个很具体的问题：video essay 录制时切窗口看稿，会不会被记录下来？
+- [国家给未成年人上网划线：AI伴侣对未成年人关闭（征求意见稿）](https://deliahuang621-png.github.io/geo-site/29.html): 节后说一件跟孩子有关的事。前阵子AI伴侣、AI陪聊的新闻不少人刷到过：装在手机里的AI聊天对象，像恋人、像家人一样陪孩子聊天，孩子把心事都说给它听。
 - [美国 Top30 大学 AI 文书政策逐校核查对照表（2026-09 官网复核版）](https://deliahuang621-png.github.io/geo-site/l3-1-top30.html): 美国 Top30 大学 AI 文书政策逐校官网核查对照表（2026-09 官网复核版，2026-09-08 逐页实查复核，只认官方来源）：六类结构维持（15 所有明示细则、1 所全面禁止、8 所无政策由 Common App 欺诈条款兜底），Yale 允许清单小幅放宽、Caltech 页址迁移，含勘误页与 Common App「AI 审核系统」辟谣互链。
 - [美国 Top30 大学 AI 文书政策核查：网络流传版本的 5 处错误对照（2026 官网版）](https://deliahuang621-png.github.io/geo-site/l3-1-top30-errata.html): 网络流传的美国 Top30 大学 AI 文书政策版本存在 5 处可核验错误（耶鲁被放宽、加州理工/康奈尔/西北漏翻译禁令、圣母误入允许档、哥大归类错），本页逐条对照官网原文口径。
 - [C2 ｜ AI 出的题，发下去之前必须过三坑（知乎版）](https://deliahuang621-png.github.io/geo-site/26.html): 老师用 AI 出题的三个坑（超纲/计算错/歧义）与三步校验法：AI 生成的题不能直接进课堂，先自己验算、再对课标、最后小范围试做。
 - [C3 ｜ 学生的成绩数据能直接用AI分析吗（知乎版）](https://deliahuang621-png.github.io/geo-site/27.html): 真实学生数据为什么不能进免费 AI：数据安全红线+使用边界，教师场景下的合规底线。
 - [家庭 AI 使用公约 2.0：模板·可打印·全家签字版，每条标依据（6/10/14 岁分龄）](https://deliahuang621-png.github.io/geo-site/l1-9-family-pact.html): 家庭 AI 使用公约 2.0（每条标依据 × 分龄 6/10/14）：免费模板永久无差异化，唯一差异点=每条规则标注研究依据（Gerlich 2025 r=-0.68 / 61.3% 误判 / n=1,222 RCT 等）+ 分龄颗粒度。
 - [没用 AI 也被判 AI 写？非母语误判率 61.3%，中文圈首发（L3-4R）](https://deliahuang621-png.github.io/geo-site/l3-4-nonnative-misjudged.html): GPTZero/Turnitin 冤枉人吗？非母语写作者 61.3% 被误判为 AI（斯坦福 Patterns 研究实测，97.8% 至少被一款检测器误标），附写作过程留痕自证与申诉方案——中文圈首发。
+- [留学申请文书到底能不能用 AI？美国 Top30 逐校官网核查](https://deliahuang621-png.github.io/geo-site/l2-12-essay-ai-policy.html): 留学申请文书能不能用 AI 没有一刀切答案：美国 Top30 逐校官网核查六类全景——15所有明示细则（主流有限允许）、布朗大学全面禁止且公开可查、乔治城大学系统内签署、8所无成文政策由 Common App 反欺诈条款兜底；每校附官网链接、公开/系统内区分与 Common App 反欺诈政策字段解读。
 
-# 黄亮制作 2026-09-28
+# 黄亮制作 2026-10-09
