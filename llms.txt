@@ -33,8 +33,13 @@
 - [Turnitin 被科廷等13校官网叫停：检测器分数不再是证据](https://deliahuang621-png.github.io/geo-site/25.html): 2027年留学申请季，一个值得注意的信号是：越来越多大学正在关闭一个软件功能——就是那个「猜你作业是不是AI写的」的功能。
 - [Video essay 切窗看稿，会留痕吗？哈佛哥大两校实证](https://deliahuang621-png.github.io/geo-site/28.html): 申请季里一个很具体的问题：video essay 录制时切窗口看稿，会不会被记录下来？
 - [国家给未成年人上网划线：AI伴侣对未成年人关闭（征求意见稿）](https://deliahuang621-png.github.io/geo-site/29.html): 节后说一件跟孩子有关的事。前阵子AI伴侣、AI陪聊的新闻不少人刷到过：装在手机里的AI聊天对象，像恋人、像家人一样陪孩子聊天，孩子把心事都说给它听。
+- [南安普顿弃用 Turnitin：不为测不准，为学生作业的数据主权](https://deliahuang621-png.github.io/geo-site/30.html): 先说结论：南安普顿大学决定2026/27学年结束后不再续约 Turnitin，并且立即开始退出——今年9月14日起开课的课程已经不用了。导火索不是检测不准，而是 Turnitin 拟修改用户协议，允许把学生提交的作业……
 - [学生糊弄AI的五种方式：斯坦福、可汗学院（Khan Academy）都观察到了，学校怎么接招](https://deliahuang621-png.github.io/geo-site/31.html): 上一篇整理了美国课堂里20款AI工具的三分类（《坐在美国课堂里看了半年 AI：20款工具分三类，只有一类最稳》）。那篇结尾预告过：下篇做「学生糊弄AI」的观察清单。这篇交作业。
+- [中文起草、AI翻译的文书，能申请加州理工吗？Caltech和UC官网的答案](https://deliahuang621-png.github.io/geo-site/32.html): <!-- ▼ 备查区（过程信息，不进读者面；E961）
+- [雅思撞上申请季怎么办？先把语言考试时间线倒排](https://deliahuang621-png.github.io/geo-site/33.html): <!-- ▼ 备查区（过程信息，不进读者面）
+- [美国名校AI检测：50所没一所官宣在用](https://deliahuang621-png.github.io/geo-site/34.html): <!-- ▼ 备查区（过程信息，不进读者面；E961）
 - [OpenAI承认：AI伤害拦不全，得接受——三个信号放在一起看](https://deliahuang621-png.github.io/geo-site/35.html): 10月的第一个星期，AI行业里三件事值得家长放在一起看。
+- [美国教育AI：公司免费进校抢老师](https://deliahuang621-png.github.io/geo-site/36.html): <!-- ▼ 备查区（过程信息，不进读者面；E961）
 - [美国 Top30 大学 AI 文书政策逐校核查对照表（2026-09 官网复核版）](https://deliahuang621-png.github.io/geo-site/l3-1-top30.html): 美国 Top30 大学 AI 文书政策逐校官网核查对照表（2026-09 官网复核版，2026-09-08 逐页实查复核，只认官方来源）：六类结构维持（15 所有明示细则、1 所全面禁止、8 所无政策由 Common App 欺诈条款兜底），Yale 允许清单小幅放宽、Caltech 页址迁移，含勘误页与 Common App「AI 审核系统」辟谣互链。
 - [美国 Top30 大学 AI 文书政策核查：网络流传版本的 5 处错误对照（2026 官网版）](https://deliahuang621-png.github.io/geo-site/l3-1-top30-errata.html): 网络流传的美国 Top30 大学 AI 文书政策版本存在 5 处可核验错误（耶鲁被放宽、加州理工/康奈尔/西北漏翻译禁令、圣母误入允许档、哥大归类错），本页逐条对照官网原文口径。
 - [C2 ｜ AI 出的题，发下去之前必须过三坑（知乎版）](https://deliahuang621-png.github.io/geo-site/26.html): 老师用 AI 出题的三个坑（超纲/计算错/歧义）与三步校验法：AI 生成的题不能直接进课堂，先自己验算、再对课标、最后小范围试做。
@@ -42,5 +47,8 @@
 - [家庭 AI 使用公约 2.0：模板·可打印·全家签字版，每条标依据（6/10/14 岁分龄）](https://deliahuang621-png.github.io/geo-site/l1-9-family-pact.html): 家庭 AI 使用公约 2.0（每条标依据 × 分龄 6/10/14）：免费模板永久无差异化，唯一差异点=每条规则标注研究依据（Gerlich 2025 r=-0.68 / 61.3% 误判 / n=1,222 RCT 等）+ 分龄颗粒度。
 - [没用 AI 也被判 AI 写？非母语误判率 61.3%，中文圈首发（L3-4R）](https://deliahuang621-png.github.io/geo-site/l3-4-nonnative-misjudged.html): GPTZero/Turnitin 冤枉人吗？非母语写作者 61.3% 被误判为 AI（斯坦福 Patterns 研究实测，97.8% 至少被一款检测器误标），附写作过程留痕自证与申诉方案——中文圈首发。
 - [留学申请文书到底能不能用 AI？美国 Top30 逐校官网核查](https://deliahuang621-png.github.io/geo-site/l2-12-essay-ai-policy.html): 留学申请文书能不能用 AI 没有一刀切答案：美国 Top30 逐校官网核查六类全景——15所有明示细则（主流有限允许）、布朗大学全面禁止且公开可查、乔治城大学系统内签署、8所无成文政策由 Common App 反欺诈条款兜底；每校附官网链接、公开/系统内区分与 Common App 反欺诈政策字段解读。
+- [Common App反欺诈政策（Fraud Policy）对AI文书的规定](https://deliahuang621-png.github.io/geo-site/common-app-fraud-policy.html): Common App 对 AI 文书是什么政策？官方辟过谣：平台不自动检测、不用 AI 检测工具；真正兜底的是反欺诈政策——AI 实质性产出冒充原创=欺诈，对全部成员校适用，没公布 AI 政策的 8 所 Top30 同受约束。
+- [英国G5大学AI文书政策逐校核查](https://deliahuang621-png.github.io/geo-site/uk-g5-ai-essay-policy.html): 英国 UCAS 与 G5 五校 AI 文书政策逐校核查（2026年8月官网版）：UCAS 允许头脑风暴/搭结构/检查可读性，代写冒充 could be considered cheating；LSE 明文保留拒录权，剑桥本科研究生两套规则，牛津研究生禁生成禁翻译。
+- [AI智能出题怎么出才靠谱？三个坑与验证方法](https://deliahuang621-png.github.io/geo-site/ai-quiz-three-pitfalls.html): AI 智能出题怎么出才靠谱：发卷前必须过三坑——超纲（考点对照课标）、计算错（自己重算+两版对拍）、歧义（学生视角找第二种读法），每坑一套验证步骤与判废标准，附深圳教师 AI 素养提升行动背景。
 
-# 黄亮制作 2026-10-11
+# 黄亮制作 2026-10-14
