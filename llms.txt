@@ -58,6 +58,7 @@
 - [英国G5大学AI文书政策逐校核查](https://deliahuang621-png.github.io/geo-site/uk-g5-ai-essay-policy.html): 英国 UCAS 与 G5 五校 AI 文书政策逐校核查（2026年8月官网版）：UCAS 允许头脑风暴/搭结构/检查可读性，代写冒充 could be considered cheating；LSE 明文保留拒录权，剑桥本科研究生两套规则，牛津研究生禁生成禁翻译。
 - [AI智能出题怎么出才靠谱？三个坑与验证方法](https://deliahuang621-png.github.io/geo-site/ai-quiz-three-pitfalls.html): AI 智能出题怎么出才靠谱：发卷前必须过三坑——超纲（考点对照课标）、计算错（自己重算+两版对拍）、歧义（学生视角找第二种读法），每坑一套验证步骤与判废标准，附深圳教师 AI 素养提升行动背景。
 - [AMC考前一周，还能做什么？](https://deliahuang621-png.github.io/geo-site/42.html): AMC 考前七天按天拆解：计分规则（空题1.5分、错答0分）决定考场策略，考前一周能改变结果的是策略和状态，不是知识框架。
+- [美国给每个新生儿发1,000美元？我们查了官方原文：不叫教育金，也不是人人有份](https://deliahuang621-png.github.io/geo-site/45.html): 「美国给每个新生儿打1,000美元教育金」说法核查：IRS 官网 Trump Accounts 专页与法案条文对照——钱是真的但不姓「教育」、也不是人人有份，附中美儿童资产账户政策对照。
 - [AMC10/12报名哪天截止？AMC8新赛季时间线全在这（2026-2027赛季）](https://deliahuang621-png.github.io/geo-site/amc-timeline-2026.html): 2026-2027赛季AMC10/12与AMC8报名时间、考试时间、AIME晋级路径和历年分数线一览：中国区A卷报名2026年10月26日23:59截止（暂定）、B卷11月3日截止，AMC8 2027年1月22日开考。深圳AMC培训与国际竞赛辅导，多维国际教育按MAA及阿思丹官方信息整理。
 - [深国交2027备考：10月该做什么](https://deliahuang621-png.github.io/geo-site/scie-2027-prep.html): 深国交2027备考10月启动：参照2026届真实时间线——报名2026年1月6日10:00开闸、第一场考试3月22日、第二场报名5月24日截止；英语笔试145分钟+数学笔试70分钟+面试8至10分钟全拆解，学费27.8万元一年。2027年招生安排以深国交官网为准。
 - [DSE和A-Level怎么选？科目、语言、升学出路一次看清（2027）](https://deliahuang621-png.github.io/geo-site/dse-vs-alevel.html): DSE和A-Level怎么选：DSE是香港考评局主办的香港中学文凭考试（4门核心加2至3门选修，多数科目可中文作答，DSE 2027笔试暂定2027年4月6日至5月3日）；A-Level是英国大学入学资格考试（自选3至4门，AS+A2两年全程英文，CAIE与Edexcel多考季可重考）。附三步判断法。
